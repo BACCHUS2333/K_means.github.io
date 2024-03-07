@@ -54,3 +54,4 @@ For further reading on k-means clustering and its applications, refer to the fol
 
 Feel free to customize this README file with additional information or sections as needed.
 
+![Parrot](parrot.jpg)
